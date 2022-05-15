@@ -14,7 +14,7 @@
 }
 ask(
  "Do you agree?",
- () => alert("You agreed"),
+ () => alert("You Agreed"),
  () => alert("You canceled the execution.")
 );
 
